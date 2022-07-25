@@ -11,7 +11,6 @@
 | 规范 | lint-staged                        | ✅       | [v1](https://github.com/BetaSu/big-react/tree/v1) |
 | 规范 | tsc                                | ✅       | [v1](https://github.com/BetaSu/big-react/tree/v1) |
 | 测试 | jest 环境搭建                      | ✅       | [v4](https://github.com/BetaSu/big-react/tree/v4) |
-| 规范 | tsc                                | ✅       | [v1](https://github.com/BetaSu/big-react/tree/v1) |
 | 构建 | babel 配置                         | ✅       | [v4](https://github.com/BetaSu/big-react/tree/v4) |
 | 构建 | Dev 环境包的构建                   | ✅       | [v1](https://github.com/BetaSu/big-react/tree/v1) |
 | 构建 | Prod 环境包的构建                  | ⬜️      |                                                   |
